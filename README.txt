@@ -14,3 +14,9 @@ secret 8d33567a11954c878e090de07fb4d3bb
 Dev
 client 8dd2d11d-dfb6-4079-b7df-915f103cdf49
 cohort id e7dc997a-4511-4dd6-9aab-ba6abeebd0a6
+
+
+# To test production
+1. Replace the api.staging url with prod api url in the webAppEntry.js
+2. We are already pointing to the test bucket so just overwrite with prod.
+3. Use prod credentials to start the session.
