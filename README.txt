@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="./assets/webAppEntry.css">
 <script type="module" src="./assets/webAppEntry.js"></script>
 
-Prod
+EMEA Prod
 client ab27ced0-7633-4912-b9fc-767716ad9da0
 secret 6191d7fb66a94dc2a79c88c28039887f
 cohort e7dc997a-4511-4dd6-9aab-ba6abeebd0a6
