@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="./assets/webAppEntry.css">
 <script type="module" src="./assets/webAppEntry.js"></script>
 
+# If you are testing with the prod or staging URL remember that the prod/staging CSS is what is used on the site, not the one in the bucket!!!
 EMEA Prod
 client ab27ced0-7633-4912-b9fc-767716ad9da0
 cohort e7dc997a-4511-4dd6-9aab-ba6abeebd0a6
