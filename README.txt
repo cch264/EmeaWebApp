@@ -9,7 +9,7 @@ secret 6191d7fb66a94dc2a79c88c28039887f
 
 staging 
 client  a5d4f774-489a-406c-9094-599a8802449e
-cohort id e7dc997a-4511-4dd6-9aab-ba6abeebd0a6
+cohort e7dc997a-4511-4dd6-9aab-ba6abeebd0a6
 secret 8d33567a11954c878e090de07fb4d3bb
 
 Dev
