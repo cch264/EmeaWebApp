@@ -1,0 +1,4 @@
+- When you build the emea component we generate a public/webAppEntry/assets/ folder which contains a js file and some css
+- This file is the GUI for starting the web component.
+- The GUI imports the web component using a script tag like a real client would.
+- To update the site paste in an updated assets folder and push to main!
